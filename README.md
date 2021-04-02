@@ -4,7 +4,7 @@ Welcome to Project 2! Let's model!
 
 **Primary Learning Objectives:**
 1. Creating and iteratively refining a regression model.
-2. Using [Kaggle](https://www.kaggle.com/t/ff32f6689d5b45aeb23d1441122b7761) to practice the modeling process.
+2. Using [Kaggle](https://www.kaggle.com) to practice the modeling process.
 3. Providing business insights through reporting and presentation.
 
 You are tasked with creating a machine learning model based on the Ames Housing Dataset. This model will predict the price of a house at sale.
@@ -26,7 +26,7 @@ The Ames Housing Dataset is contains over 70 columns of different features relat
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click here: [Regression Challenge Sign Up](https://www.kaggle.com/t/bbb6b0d99517498e98bc9d455eff6f9e) to **join** the competition (otherwise you will not be able to make submissions!)
+2. **IMPORTANT**: Click here: [Regression Challenge Sign Up](https://www.kaggle.com/t/7266ab384a5444fa92591f8dceac016d) to **join** the competition (otherwise you will not be able to make submissions!)
 3. Review the material on the Kaggle challenge site.
 4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
@@ -49,9 +49,9 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-- Presentation will be delivered starting at 0900 on **Monday 14 December**. 
-- Your technical report must be submitted in your submission repository by 23:59 on **Monday 14 December**.
-- The Kaggle competition will close by midnight **Monday 14 December**.
+- Presentation will be delivered starting at 0900 on **Friday 16 April**. 
+- Your technical report must be submitted in your submission repository by 23:59 on **Friday 16 April**.
+- The Kaggle competition will close by midnight **Friday 16 April**.
 
 Your technical report must include:
 
