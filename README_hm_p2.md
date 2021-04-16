@@ -41,3 +41,40 @@ Each of these features imparted over 16% increase in saleprice per 1 unit change
 ---
 ### Conclusions
 This exercise absolutely illustrated the difference between inference and prediction.  Prediction led to all kinds of transformations and throwing maybe-sticky-things at the wall, and if I had tried to maintain that methodology in the Inferential section, it would have been untenable.  Simple linear regression was how I kept information interpretable for stakeholders, but the specificity and value of my results suffered because of it.  Future goals are to revisit this Kaggle exercise and/or similar competitions because honestly I feel like I lucked into decent scores as opposed to heading there with purpose.  For inference, this report is supersaturated with heatmaps and I need to practice other ways to convey information to the less data-savvy.
+
+---
+
+### Citations
+Source 1: 'Intermediate Data Cleaning' by Kevin Crystal, GA-DSI alumn
+* https://medium.com/@kevin.a.crystal/intermediate-data-cleaning-195e1af3ccf9
+* Mostly used for conceptual approach to cleaning. Noted in code notes if actual code used.
+
+
+Source 2: 'Comprehensive data exploration with Python' by Pedro Marcelino
+* https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+* ripped code to print df of nulls and what % of the column those nulls represent
+
+
+Source 3: 'A study on Regression applied to the Ames dataset' by Julien Cohen Solal
+* https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset
+
+
+Source 4: 'Regularized Linear Models' by Alexandru Papiu
+* https://www.kaggle.com/apapiu/house-prices-advanced-regression-techniques/regularized-linear-models
+
+
+Source 5: 'Stacked Regressions: Top 4% on Leaderboard' by Serigne
+* https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
+
+
+Source 6: 'How to not fail this project' by Gwen Rathgerber
+* process for creating dummy model
+* idea for stretching the scale of ordinal variables
+* some code chunks from the 'reusable-graphing-fx' document she disseminated
+
+
+Source 7: ''Machine Learning Regression Project - Predicting Housing Sales' by Jeff Hale
+* https://www.kaggle.com/discdiver/regression-project-predicting-housing-sales
+
+
+Source 8: Amanda and Caleb for latenight exponentiation troubleshooting.  exp() and expm1() not the same.
