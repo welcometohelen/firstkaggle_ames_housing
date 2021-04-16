@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Tests - still not fun for anyone
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: Ames Housing Data and Kaggle Challenge
 
 ### Problem Statement
 This technical report consists of two autonomous undertakings: prediction and inference.  Part I answers the question of how to best predict home prices in Ames, Iowa given past data.  Part II answers questions from current homeowners who want to increase the value of their property via remodeling.  Part II is guided by relationships explored in Part I, but the methods used are very different for each in order to preserve interpretability in Part II.
