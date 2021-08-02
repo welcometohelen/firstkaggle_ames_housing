@@ -33,7 +33,7 @@ Using the pre-transformed cleaned data from Part I, I proceeded to clean it all 
 Lasso was the superior regression tool for how I cleaned my data.  Linear Regression with features selected by correlation was actually a close second, which surprised me given the boost in complexity that Lasso imparts.  Through all the predictive models, Test RMSE was very close to Train RMSE, so I was not concerned about overfitting.  Setting the scoring parameter to 'neg_mean_squared_error' improved the Ridge RMSE even with all else held equal.  However, it was still barely surpassed by Lasso.
 
 ##### Inference
-Interpretability proved a bear.  When including many features, coefficients did not always correspond with common sense.  It took more pruning and rebinning of features to yield information that could be useful to current homeowners.  Overall, the most influential (and mutable) attributes of a home were:
+Interpretability proved a bear.  When including many features, coefficients did not always correspond with common sense.  It took more pruning and rebinning of features to yield information that could be useful to current homeowners.  Overall, the most influential (and renovatable) attributes of a home were:
 * Kitchen quality
 * Number of bathrooms
 * Paved driveway
