@@ -1,9 +1,9 @@
 # Ames Housing Data and Kaggle Challenge
 
-### Problem Statement
-This technical report consists of two independent undertakings: prediction and inference.  Part I addresses how I predicted home prices in Ames, Iowa given past data.  This was my first foray into a Kaggle competition, and my first application of regularized regression.  I have since added much to my predictive modeling repertoire and to my notebook organization / workflow.  Though amateur, I have left this project public because I very much appreciated public notebooks from other Kaggle veterans on this same dataset, so perhaps this will serve to aid or inspire other beginners.
+** Note to readers: This project is from early in my data science studies and marks my first foray into a Kaggle competition and my first application of regularized regression.  I have since greatly improved my predictive modeling repertoire and my workflow organization, and may one day get around to updating this project to illustrate as much.  However, I have left this version public because in completing this assignment, I **learned a ton** from other public notebooks on basic methodologies with this dataset.  Perhaps this version, however JV, will serve to aid or inspire other beginners.
 
-Part II answers hypothetical questions from current homeowners who want to increase the value of their property via remodeling.  Part II is guided by relationships explored in Part I, but the methods used are very different in order to preserve interpretability.
+### Problem Statement
+This technical report consists of two independent undertakings: prediction and inference.  Part I addresses how I predicted home prices in Ames, Iowa given past data.  This was my first foray into a Kaggle competition, and my first application of regularized regression.  Part II answers hypothetical questions from current homeowners who want to increase the value of their property via remodeling.  Part II is guided by relationships explored in Part I, but the methods used are very different in order to preserve interpretability.
 
 The inferential problem statement is that homeowners in Iowa have a remodel budget and are wondering if they can 'make their money back' via prudent remodeling investments.  They are not shopping for *homes*, so we are working in the confines of fixed neighborhood, street, proximity to amenities, lot size, etc.  This eliminates many of the leading features from the predictive model because prediction was heavily guided by square footage and location.  Are there investments that can improve property value in a meaningful way when these important metrics are already fixed?
 
@@ -71,12 +71,12 @@ Source 5: 'Stacked Regressions: Top 4% on Leaderboard' by Serigne
 
 Source 6: 'How to not fail this project' by Gwen Rathgerber
 * process for creating dummy model
-* idea for stretching the scale of ordinal variables
-* some code chunks from the 'reusable-graphing-fx' document she disseminated
+* idea for modifying the scale of ordinals
+* some code chunks from 'reusable-graphing-fx' document
 
 
 Source 7: ''Machine Learning Regression Project - Predicting Housing Sales' by Jeff Hale
 * https://www.kaggle.com/discdiver/regression-project-predicting-housing-sales
 
 
-Source 8: Amanda and Caleb for latenight exponentiation troubleshooting.  exp() and expm1() not the same.
+Source 8: Amanda and Caleb for latenight exponentiation troubleshooting.  exp() and expm1() are not the same.
